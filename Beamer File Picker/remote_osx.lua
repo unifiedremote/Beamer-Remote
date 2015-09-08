@@ -9,7 +9,7 @@ local stack = {};
 -------------------------------------------------------------------
 
 -- NOTE: Start and end the string with a comma
-local movie_extensions = ",asf,wmv,avi,flv,mkv,mk3d,mkv,mov,mp4,3gp,3g2,mj2,f4v,mpg,mpeg,vob,ts,m2t,m2ts,mts,mjpg,swf,ogg,ogv,"
+local movie_extensions = ",asf,wmv,avi,flv,mkv,mk3d,mkv,mov,mp4,3gp,3g2,mj2,f4v,mpg,mpeg,vob,ts,m2t,m2ts,mts,mjpg,swf,ogg,ogv,m4v,"
 local subtitle_extensions = ",sub,ass,ssa,txt,mpl2,srt,"
 local home_path = "~"
 
